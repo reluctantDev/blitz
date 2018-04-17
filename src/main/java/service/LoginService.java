@@ -3,6 +3,7 @@ package service;
 import model.User;
 import repository.IUserRepository;
 
+/*Master changes*/
 public class LoginService implements ILoginService {
 
     private IUserRepository userRepository;
